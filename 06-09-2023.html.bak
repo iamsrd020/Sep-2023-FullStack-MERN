@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel='icon' href='Images/SRD logo.png' />
+<style> 
+*{
+		padding: 0px;
+		margin:0px;
+	
+	.header{
+		height: 100px;
+		background-color: black;
+		width:100%;
+		color: white;
+		}
+	.footer{
+		height: 100px;
+		background-color: black;
+		width:100%;
+		color: white;
+		}
+	.banner{
+		height: 500px;
+		width: 100%;
+		}
+	<style>
+	li{
+		dislpay:inline-block;
+		}
+		</style>
+	
+	</style>
+</head>
+<body>
+
+	<div class="header">
+	<h1> Header </h1>
+	<ul style='padding:30px; list-style-type:none; float:right;'> 
+	<li>  Home </li>
+	<li> About </li>
+	<li> Contact</li>
+	<li>  Login </li>
+	
+	</ul>
+	</div>
+	
+	<div class="banner" style="background-image:url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Gradient-Wallpaper-1920x1080.jpg')" >
+
+	<h1 style="padding-left:100px; padding-top:100px; font-size:50px; width:20%"> PHOTOGRAPHY is not a Skill its an Art </h1>
+	</div> 
+	<div class="footer">
+	
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	 
+	</head>
+	<body>
+	<a href="https://www.youtube.com/" target='_self'> touch me for youtube</a><br>
+	<a href="https://itdefined.org/" target="_blank"> click me for ITD</a><br>
+	
+	<a href="#red_srd" target="_self"> Take me to red Section</a><br>
+	<a href="#yellow_srd" target="_self"> Take me to yellow Section</a><br>
+	<a href="#pink_srd" target="_self"> Take me to pink Section</a><br>
+	<a href="#orange_srd" target="_self"> Take me to orange Section</a><br>
+	<a href="T2.html" target="blank"> Take me to T2 page</a><br>
+	<a href="E:\Sep 2023 Full Stack\T1.html" target="_blank"> Take me to T1 page</a><br> 
+	
+	
+	<div style='width:100%; height:300px; background-color:red;' id="red_srd"> </div>
+	<div style='width:100%; height:300px; background-color:yellow;' id="yellow_srd"> </div>
+	<div style='width:100%; height:300px; background-color:pink;' id="pink_srd"> </div>
+	<div style='width:100%; height:500px; background-color:orange;'id="orange_srd"> </div>
+	</body>
+</html>
